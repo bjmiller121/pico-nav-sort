@@ -15,13 +15,11 @@ This can be used to style the link differently in your CSS.
 the root of your Pico install.
 1. In your content meta, add a weight like so:
         
-        ```html
         /*
         Title: Example
         Description: This is a description
         Weight: 1
         */
-        ```
         
 1. Repeat this for each page giving each one a unique value to determine the sort
 order.
