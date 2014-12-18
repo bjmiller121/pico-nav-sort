@@ -14,7 +14,7 @@ This can be used to style the link differently in your CSS.
 1. Download a copy of `pico_nav_sort` and add it to the `plugins` directory in
 the root of your Pico install.
 1. In your content meta, add a weight like so:
-    ```html
+    ```
     /*
     Title: Example
     Description: This is a description
