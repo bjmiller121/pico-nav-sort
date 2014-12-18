@@ -24,6 +24,8 @@ the root of your Pico install.
 1. Repeat this for each page giving each one a unique value to determine the sort
 order.
 1. Add the following in your theme template to render the sorted navigation:
-    <ul>
-      {{ nav_sort.sorted_nav }}
-    </ul>
+        
+        <ul>
+          {{ nav_sort.sorted_nav }}
+        </ul>
+        
