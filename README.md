@@ -14,13 +14,13 @@ This can be used to style the link differently in your CSS.
 1. Download a copy of `pico_nav_sort` and add it to the `plugins` directory in
 the root of your Pico install.
 1. In your content meta, add a weight like so:
-    ```
-    /*
-    Title: Example
-    Description: This is a description
-    Weight: 1
-    */
-    ```
+        ```
+        /*
+        Title: Example
+        Description: This is a description
+        Weight: 1
+        */
+        ```
 1. Repeat this for each page giving each one a unique value to determine the sort
 order.
 1. Add the following in your theme template to render the sorted navigation:
